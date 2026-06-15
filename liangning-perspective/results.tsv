@@ -1,0 +1,3 @@
+timestamp	skill	version	eval_mode	baseline_score	new_score	decision	notes
+2026-06-15 09:53:04 CST	liangning-perspective	v0.2.0	darwin-dry-run	8.06	9.00	keep	新增《真需求》EPUB正文证据，重构为价值-共识-模式商业闭环；未运行真实subagent盲测
+2026-06-15 10:11:25 CST	liangning-perspective	v0.2.1	darwin-dry-run	9.00	9.20	keep	完成有限公网检测，纠正过期边界；纳入豆瓣与微信读书公开校验，未运行真实subagent盲测
